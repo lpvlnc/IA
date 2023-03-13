@@ -1,0 +1,15 @@
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\bin\Debug\net7.0\Maze.exe
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\bin\Debug\net7.0\Maze.deps.json
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\bin\Debug\net7.0\Maze.runtimeconfig.json
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\bin\Debug\net7.0\Maze.dll
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\bin\Debug\net7.0\Maze.pdb
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\obj\Debug\net7.0\Maze.csproj.AssemblyReference.cache
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\obj\Debug\net7.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\obj\Debug\net7.0\Maze.AssemblyInfoInputs.cache
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\obj\Debug\net7.0\Maze.AssemblyInfo.cs
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\obj\Debug\net7.0\Maze.csproj.CoreCompileInputs.cache
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\obj\Debug\net7.0\Maze.dll
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\obj\Debug\net7.0\refint\Maze.dll
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\obj\Debug\net7.0\Maze.pdb
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\obj\Debug\net7.0\Maze.genruntimeconfig.cache
+C:\Users\lpval\Documents\Faculdade\7º Semestre\Inteligencia Artificial\Maze\Maze\obj\Debug\net7.0\ref\Maze.dll
